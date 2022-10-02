@@ -27,14 +27,5 @@ To develop an end-to-end web application capable of displaying the current job o
 ## Technical Architecture :
 ![Technical architecture diagram](https://lh3.googleusercontent.com/1OWTBsvpOXh0YVOalvRAGG8uDOBJea7NpyXg5hSSHb61IRRFHTY8txceIQfcIsc9b9coajOEraPoPIAVr5SOr0WFF0iQKVHnHOXk-wAn6XwNjuZFSsdGwreGV7Y10Q)
 
-## Project Workflow :
 
- - The user interacts with the application.
-
- - Registers by giving the details.
-
- - Integrate the application with news APIs and store the data in the database.
-
- - The database will have all the details and the user can search the news by using a search bar.
- 
 
