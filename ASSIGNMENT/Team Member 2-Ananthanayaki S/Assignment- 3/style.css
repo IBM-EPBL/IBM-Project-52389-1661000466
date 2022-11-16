@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    /* background-color: rgb(52, 188, 252); */
+    background: #fc00ff;
+    background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);
+    background: linear-gradient(to right, #00dbde, #fc00ff);
+}
+  img{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 300px;
+    width: 600px;
+  }
